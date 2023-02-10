@@ -1,0 +1,11 @@
+GET
+https://api.unsplash.com/photos/random?count=20
+
+
+
+
+%%%
+# GET
+# https://api.unsplash.com/photos/random?count=20
+
+# Error: java.net.SocketTimeoutException: timeout

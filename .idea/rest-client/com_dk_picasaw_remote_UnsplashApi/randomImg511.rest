@@ -1,0 +1,5 @@
+GET
+{BASE_URL}/photos/random?count=20
+
+
+
